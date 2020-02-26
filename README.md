@@ -1,2 +1,2 @@
-# korean-love-meter
-Something from a K-Drama
+# Korean Love Meter
+Something from a K-Drama my mother watched. (Don't ask)
